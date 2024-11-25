@@ -1,0 +1,9 @@
+*.egg-info
+*.py[oc]
+*.sqlite3
+.venv
+/assets
+__pycache__/
+build/
+dist/
+wheels/
